@@ -45,37 +45,37 @@ My work spans diverse processing-in-memory architectures, including ReRAM-, SRAM
 
 ### Selected Publications
 
-*: Corresponding Author; =: Equal Contribution
-
-[1] <span class="venue-badge">ISLPED 2026</span>
-Yeong Hwan Oh, Do Yeong Kang, **Juhong Park**, Chanwook Hwang, Kang Eun Jeon, and Jong Hwan Ko;
-[HyperSPACE: Sparse-Adder-Compatible Encoding for Efficient Hyperdimensional Computing on Digital CIM Arrays](https://ieeexplore.ieee.org/document/10558607).
-In *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)*, 2026.
-
-[2] <span class="venue-badge">DAC 2026</span>
+[1] <span class="venue-badge">DAC 2026</span>
 **Juhong Park**, Yintao He, Sangheum Yeon, Yiran Chen, and Jong Hwan Ko;
 [REFLEX: Rewrite-Free Row-Aligned Sparse Attention for Efficient LLM Execution on PIM](https://ieeexplore.ieee.org/document/10360972).
 In *ACM/IEEE Design Automation Conference (DAC)*, 2026.
 
-[3] <span class="venue-badge">APCCAS 2025</span>
-Johnny Rhe, **Juhong Park**, Kang Eun Jeon, and Jong Hwan Ko;
-[ETA: Efficient Transformer Attention Mapping for ReRAM-based Compute-In-Memory Architectures](https://ieeexplore.ieee.org/abstract/document/11377506).
-In *Asia Pacific Conference on Circuits and Systems (APCCAS)*, 2025.
-
-[4] <span class="venue-badge">ICCE-Asia 2024</span>
+[2] <span class="venue-badge">ICCE-Asia 2024</span>
 **Juhong Park** and Jong Hwan Ko;
 [Fully Approximate Computing for Efficient Multi-Bit DNN Inference in CIM Arrays](https://ieeexplore.ieee.org/abstract/document/10774042).
 In *IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*, 2024.
 
-[5] <span class="venue-badge">ISOCC 2024</span>
+[3] <span class="venue-badge">ISOCC 2024</span>
 **Juhong Park** and Jong Hwan Ko;
 [C-afa: A Conditionally Approximate Full Adder for Efficient DNN Inference in CIM Arrays](https://ieeexplore.ieee.org/abstract/document/10762580).
 In *International SoC Design Conference (ISOCC)*, 2024.
 
-[6] <span class="venue-badge">ISCAS 2024</span>
+[4] <span class="venue-badge">ISCAS 2024</span>
 **Juhong Park**, Johnny Rhe, and Jong Hwan Ko;
 [KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays](https://ieeexplore.ieee.org/abstract/document/10558607).
 In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2024.
+
+### Collaborative Publications
+
+[5] <span class="venue-badge">ISLPED 2026</span>
+Yeong Hwan Oh, Do Yeong Kang, **Juhong Park**, Chanwook Hwang, Kang Eun Jeon, and Jong Hwan Ko;
+[HyperSPACE: Sparse-Adder-Compatible Encoding for Efficient Hyperdimensional Computing on Digital CIM Arrays](https://ieeexplore.ieee.org/document/10558607).
+In *IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)*, 2026.
+
+[6] <span class="venue-badge">APCCAS 2025</span>
+Johnny Rhe, **Juhong Park**, Kang Eun Jeon, and Jong Hwan Ko;
+[ETA: Efficient Transformer Attention Mapping for ReRAM-based Compute-In-Memory Architectures](https://ieeexplore.ieee.org/abstract/document/11377506).
+In *Asia Pacific Conference on Circuits and Systems (APCCAS)*, 2025.
 
 [7] <span class="venue-badge">AICAS 2024</span>
 Chanwook Hwang, Jaehyeon So, Johnny Rhe, Jiyoon Kim, **Juhong Park**, Kang Eun Jeon, and Jong Hwan Ko;
