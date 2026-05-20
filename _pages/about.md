@@ -4,7 +4,11 @@ title: ""
 author_profile: true
 ---
 <style>
+.page {
+  padding-top: 0 !important;
+}
 .page__content {
+  margin-top: -30px !important;
   padding-top: 0 !important;
 }
 .page__inner-wrap {
