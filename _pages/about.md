@@ -112,7 +112,7 @@ In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
 
-- 2025.09 2025 President’s List, Sungkyunkwan University.
+- 2025.09 [2025 President’s List](https://presidentlist.skku.edu/presidentlist/index.do), Sungkyunkwan University.
 - 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
 - 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
 - 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
