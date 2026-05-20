@@ -41,3 +41,26 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+// Custom style overrides
+
+html {
+  font-size: 15px;
+}
+
+.page__content {
+  font-size: 0.95em;
+}
+
+.sidebar {
+  font-size: 0.95em;
+}
+
+.greedy-nav,
+.greedy-nav a {
+  font-size: 0.95em;
+}
+
+.page__footer {
+  display: none !important;
+}
