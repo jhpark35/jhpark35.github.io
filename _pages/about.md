@@ -27,6 +27,7 @@ My work spans ReRAM-, SRAM-, DRAM-, and HBM-based processing-in-memory architect
 <a id="news"></a>
 ## 🔥 News
 
+- **2026.05:** 🎉 One paper was accepted to ISLPED 2026.
 - **2026.02:** 🎉 One paper was accepted to DAC 2026.
 
 <a id="experience"></a>
@@ -42,9 +43,16 @@ My work spans ReRAM-, SRAM-, DRAM-, and HBM-based processing-in-memory architect
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
 
-- SKKU President’s List, 2025
+- 2025.09 2025 President’s List, SungKyunKwan University
+- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS) 
+- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI 
+- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA)
+- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University
+- 2015.08 Dean’s List Award, Sungkyunkwan University
+- 2014.02 Qualcomm Scholarship Recipient, Qualcomm
 
 <a id="education"></a>
 ## 📖 Education
 
-- Ph.D. Student, Sungkyunkwan University, 2023–Present
+- 2023.03 - Present, Ph.D in Electrical and Computer Engineering, SungKyunKwan University.
+- 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, SungKyunKwan University.
