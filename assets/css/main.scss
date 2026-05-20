@@ -44,23 +44,23 @@
 
 // Custom style overrides
 
-html {
-  font-size: 13px;
-}
-
-.page__content {
-  font-size: 0.95em;
-}
-
-.sidebar {
-  font-size: 0.95em;
-}
-
+/* Top navigation menu */
 .greedy-nav,
-.greedy-nav a {
-  font-size: 0.95em;
+.greedy-nav a,
+.masthead__menu-item,
+.masthead__menu-item a {
+  font-size: 14px !important;
 }
 
-.page__footer {
-  display: none !important;
+/* Main body content */
+.page__content {
+  font-size: 14px !important;
+  line-height: 1.55 !important;
+}
+
+/* Sidebar profile */
+.sidebar,
+.author__content,
+.author__urls {
+  font-size: 14px !important;
 }
