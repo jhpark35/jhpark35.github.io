@@ -33,10 +33,10 @@ My work spans diverse processing-in-memory architectures, including ReRAM-, SRAM
 <a id="experience"></a>
 ## 💻 Experience
 
-- 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University
-- 2022.09 - 2023.02 Research Assitant, IRIS Lab., SungKyunKwan University
-- 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro
-- 2015.08 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics
+- 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University.
+- 2022.09 - 2023.02 Research Assitant, IRIS Lab., SungKyunKwan University.
+- 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro.
+- 2015.08 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
 
 <a id="publications"></a>
 ## 📝 Publications
@@ -46,13 +46,13 @@ My work spans diverse processing-in-memory architectures, including ReRAM-, SRAM
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
 
-- 2025.09 2025 President’s List, SungKyunKwan University
-- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS) 
-- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI 
-- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA)
-- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University
-- 2015.08 Dean’s List Award, Sungkyunkwan University
-- 2014.02 Qualcomm Scholarship Recipient, Qualcomm
+- 2025.09 2025 President’s List, SungKyunKwan University.
+- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
+- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. 
+- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
+- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
+- 2015.08 Dean’s List Award, Sungkyunkwan University.
+- 2014.02 Qualcomm Scholarship Recipient, Qualcomm (Korea).
 
 <a id="education"></a>
 ## 📖 Education
