@@ -3,6 +3,15 @@ permalink: /
 title: ""
 author_profile: true
 ---
+<style>
+.page__content {
+  padding-top: 0 !important;
+}
+.page__inner-wrap {
+  margin-top: 0 !important;
+}
+</style>
+
 <a id="about-me"></a>
 ## About Me
 ## About Me {#about-me}
