@@ -53,6 +53,14 @@ In <em>ACM/IEEE Design Automation Conference (DAC)</em>, 2026.
 
 <p class="pub-item">
 <span class="pub-index">[2]</span>
+<span class="venue-badge">JSA 2025</span>
+<strong>Juhong Park</strong>, Johnny Rhe, Chanwook Hwang, Jaehyeon So, and Jong Hwan Ko;
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762124002649">Input/Mapping Precision Controllable Digital CIM with Adaptive Adder Tree Architecture for Flexible DNN Inference</a>.
+In <em>Journal of Systems Architecture (JSA)</em>, 2025. <strong>(JCR Q1)</strong>
+</p>
+
+<p class="pub-item">
+<span class="pub-index">[3]</span>
 <span class="venue-badge">ICCE-Asia 2024</span>
 <strong>Juhong Park</strong> and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/abstract/document/10774042">Fully Approximate Computing for Efficient Multi-Bit DNN Inference in CIM Arrays</a>.
@@ -60,7 +68,7 @@ In <em>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</e
 </p>
 
 <p class="pub-item">
-<span class="pub-index">[3]</span>
+<span class="pub-index">[4]</span>
 <span class="venue-badge">ISOCC 2024</span>
 <strong>Juhong Park</strong> and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/abstract/document/10762580">C-afa: A Conditionally Approximate Full Adder for Efficient DNN Inference in CIM Arrays</a>.
@@ -68,7 +76,7 @@ In <em>International SoC Design Conference (ISOCC)</em>, 2024.
 </p>
 
 <p class="pub-item">
-<span class="pub-index">[4]</span>
+<span class="pub-index">[5]</span>
 <span class="venue-badge">ISCAS 2024</span>
 <strong>Juhong Park</strong>, Johnny Rhe, and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/abstract/document/10558607">KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays</a>.
@@ -78,7 +86,7 @@ In <em>IEEE International Symposium on Circuits and Systems (ISCAS)</em>, 2024.
 ### Collaborative Publications
 
 <p class="pub-item">
-<span class="pub-index">[5]</span>
+<span class="pub-index">[6]</span>
 <span class="venue-badge">ISLPED 2026</span>
 Yeong Hwan Oh, Do Yeong Kang, <strong>Juhong Park</strong>, Chanwook Hwang, Kang Eun Jeon, and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/document/10558607">HyperSPACE: Sparse-Adder-Compatible Encoding for Efficient Hyperdimensional Computing on Digital CIM Arrays</a>.
@@ -86,7 +94,7 @@ In <em>IEEE/ACM International Symposium on Low Power Electronics and Design (ISL
 </p>
 
 <p class="pub-item">
-<span class="pub-index">[6]</span>
+<span class="pub-index">[7]</span>
 <span class="venue-badge">APCCAS 2025</span>
 Johnny Rhe, <strong>Juhong Park</strong>, Kang Eun Jeon, and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/abstract/document/11377506">ETA: Efficient Transformer Attention Mapping for ReRAM-based Compute-In-Memory Architectures</a>.
@@ -94,7 +102,7 @@ In <em>Asia Pacific Conference on Circuits and Systems (APCCAS)</em>, 2025.
 </p>
 
 <p class="pub-item">
-<span class="pub-index">[7]</span>
+<span class="pub-index">[8]</span>
 <span class="venue-badge">AICAS 2024</span>
 Chanwook Hwang, Jaehyeon So, Johnny Rhe, Jiyoon Kim, <strong>Juhong Park</strong>, Kang Eun Jeon, and Jong Hwan Ko;
 <a href="https://ieeexplore.ieee.org/abstract/document/10595909">An Efficient Ventricular Arrhythmias Detection on Microcontrollers with Optimized 1D CNN</a>.
