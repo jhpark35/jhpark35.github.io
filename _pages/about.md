@@ -56,7 +56,7 @@ In <em>ACM/IEEE Design Automation Conference (DAC)</em>, 2026.
 <span class="venue-badge">JSA 2025</span>
 <strong>Juhong Park</strong>, Johnny Rhe, Chanwook Hwang, Jaehyeon So, and Jong Hwan Ko;
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762124002649">Input/Mapping Precision Controllable Digital CIM with Adaptive Adder Tree Architecture for Flexible DNN Inference</a>.
-In <em>Journal of Systems Architecture (JSA)</em>, 2025. <strong>(JCR Q1)</strong>
+In <em>Journal of Systems Architecture (JSA)</em>, 2025. (JCR Q1)
 </p>
 
 <p class="pub-item">
