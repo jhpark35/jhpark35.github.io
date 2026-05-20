@@ -22,26 +22,26 @@ author_profile: true
 I am a Ph.D. student ...
 
 <a id="news"></a>
-## News
+## 🔥 News
 
 - **2026.02:** One paper was accepted to DAC 2026.
 
 <a id="experience"></a>
-## Experience
+## 💻 Experience
 
 - **Visiting Researcher**, Duke University, 2025–2026
 
 <a id="publications"></a>
-## Publications
+## 📝 Publications
 
 [1] **Juhong Park**, ...
 
 <a id="honors-and-awards"></a>
-## Honors and Awards
+## 🏆 Honors and Awards
 
 - SKKU President’s List, 2025
 
 <a id="education"></a>
-## Education
+## 📖 Education
 
 - Ph.D. Student, Sungkyunkwan University, 2023–Present
