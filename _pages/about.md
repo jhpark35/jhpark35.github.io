@@ -14,6 +14,8 @@ author_profile: true
 .page__inner-wrap {
   margin-top: 0 !important;
 }
+.page__footer {
+  display: none !important;
 </style>
 
 <a id="about-me"></a>
