@@ -116,7 +116,7 @@ In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 - 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
 - 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
 - 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
-- 2023 - 2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
+- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
 - 2015.08 Dean’s List Award, Sungkyunkwan University.
 - 2014.02 Qualcomm Scholarship Recipient, Qualcomm (Korea).
 
