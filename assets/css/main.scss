@@ -63,4 +63,16 @@
 .author__content,
 .author__urls {
   font-size: 17px !important;
+
+/* Publication venue badge */
+.venue-badge {
+  display: inline-block;
+  background-color: #2f6fdd;
+  color: white;
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 5px;
+  margin-right: 4px;
+  vertical-align: middle;
 }
