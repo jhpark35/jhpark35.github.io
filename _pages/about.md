@@ -33,7 +33,10 @@ My work spans ReRAM-, SRAM-, DRAM-, and HBM-based processing-in-memory architect
 <a id="experience"></a>
 ## 💻 Experience
 
-- **Visiting Researcher**, Duke University, 2025–2026
+- 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University
+- 2022.09 - 2023.02 Research Assitant, IRIS Lab., SungKyunKwan University
+- 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro
+- 2015.08 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics
 
 <a id="publications"></a>
 ## 📝 Publications
@@ -54,5 +57,5 @@ My work spans ReRAM-, SRAM-, DRAM-, and HBM-based processing-in-memory architect
 <a id="education"></a>
 ## 📖 Education
 
-- 2023.03 - Present, Ph.D in Electrical and Computer Engineering, SungKyunKwan University.
+- 2023.03 - Now, Ph.D in Electrical and Computer Engineering, SungKyunKwan University.
 - 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, SungKyunKwan University.
