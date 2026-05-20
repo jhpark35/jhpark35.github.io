@@ -8,7 +8,7 @@ author_profile: true
   padding-top: 0 !important;
 }
 .page__content {
-  margin-top: -40px !important;
+  margin-top: -50px !important;
   padding-top: 0 !important;
 }
 .page__inner-wrap {
