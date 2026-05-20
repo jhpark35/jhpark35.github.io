@@ -41,8 +41,6 @@ My work spans diverse processing-in-memory architectures, including ReRAM-, SRAM
 <a id="publications"></a>
 ## 📝 Publications
 
-## Publications
-
 ### Selected Publications
 
 [1] <span class="venue-badge">DAC 2026</span>
