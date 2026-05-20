@@ -34,7 +34,7 @@ My research focuses on computer architecture, especially hardware–software co-
 ## 💻 Experience
 
 - 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University.
-- 2022.09 - 2023.02 Research Assitant, IRIS Lab., SungKyunKwan University.
+- 2022.09 - 2023.02 Research Assitant, IRIS Lab., Sungkyunkwan University.
 - 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro.
 - 2015.07 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
 
@@ -112,7 +112,7 @@ In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
 
-- 2025.09 2025 President’s List, SungKyunKwan University.
+- 2025.09 2025 President’s List, Sungkyunkwan University.
 - 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
 - 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
 - 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
@@ -123,5 +123,5 @@ In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 <a id="education"></a>
 ## 📖 Education
 
-- 2023.03 - Now, Ph.D in Electrical and Computer Engineering, SungKyunKwan University.
-- 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, SungKyunKwan University.
+- 2023.03 - Now, Ph.D in Electrical and Computer Engineering, Sungkyunkwan University.
+- 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, Sungkyunkwan University.
