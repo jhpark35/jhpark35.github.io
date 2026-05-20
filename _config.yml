@@ -27,7 +27,7 @@ author:
   name             : "Juhong Park"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Electrical and Computer Engineering"
-  location         : "Suwon, South Korea / Durham, NC, USA"
+  location         : "Suwon, South Korea"
   employer         : "Sungkyunkwan University (SKKU)"
   uri              : # URL
   email            : "dodream1129@gmail.com" 
@@ -38,13 +38,13 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=gyeEWrgAAAAJ&hl=ko"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # orcid            : "https://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # ssrn             : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # Repositories and software development
