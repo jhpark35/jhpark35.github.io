@@ -36,7 +36,7 @@ My work spans diverse processing-in-memory architectures, including ReRAM-, SRAM
 - 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University.
 - 2022.09 - 2023.02 Research Assitant, IRIS Lab., SungKyunKwan University.
 - 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro.
-- 2015.08 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
+- 2015.07 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
 
 <a id="publications"></a>
 ## 📝 Publications
