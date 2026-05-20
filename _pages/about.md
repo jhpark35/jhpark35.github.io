@@ -20,7 +20,7 @@ author_profile: true
 
 <a id="about-me"></a>
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at Sungkyunkwan University. My research focuses on computer architecture and hardware–software co-design for memory-centric AI systems. I study how emerging AI workloads interact with modern memory architectures, and develop system-level techniques to improve their efficiency and reliability.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at Sungkyunkwan University, supervised by Prof. Jong Hwan Ko. My research focuses on computer architecture, especially hardware–software co-design for memory-centric AI systems. I have explored performance and reliability challenges that arise when emerging AI workloads are mapped onto modern memory architectures.
 
 My work spans ReRAM-, SRAM-, DRAM-, and HBM-based processing-in-memory architectures. Recently, I have been exploring DRAM-PIM and HBM-PIM designs for efficient and reliable large language model (LLM) inference.
 
