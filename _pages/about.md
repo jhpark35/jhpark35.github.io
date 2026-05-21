@@ -35,8 +35,8 @@ My work has covered ReRAM-, SRAM-, and DRAM-based PIM systems, with a recent emp
 <a id="experience"></a>
 ## 💻 Experience
 
-- 2025.07 - 2026.07 Visiting Researcher, CEI Lab., Duke University (advisor: Prof. [Yiran Chen](https://cei.pratt.duke.edu/)).
-- 2022.09 - 2023.02 Research Assistant, IRIS Lab., Sungkyunkwan University.
+- 2025.07 - 2026.07 Visiting Researcher, CEI Lab, Duke University (advisor: Prof. [Yiran Chen](https://cei.pratt.duke.edu/)).
+- 2022.09 - 2023.02 Research Assistant, IRIS Lab, Sungkyunkwan University.
 - 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro.
 - 2015.07 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
 
@@ -125,5 +125,5 @@ In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 <a id="education"></a>
 ## 📖 Education
 
-- 2023.03 - Now, Ph.D in Electrical and Computer Engineering, Sungkyunkwan University.
+- 2023.03 - Present, Ph.D. in Electrical and Computer Engineering, Sungkyunkwan University.
 - 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, Sungkyunkwan University.
