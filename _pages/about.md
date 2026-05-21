@@ -49,7 +49,7 @@ My work has covered ReRAM-, SRAM-, and DRAM-based PIM systems, and has recently 
 <span class="pub-index">[1]</span>
 <span class="venue-badge">DAC 2026</span>
 <strong>Juhong Park</strong>, Yintao He, Sangheum Yeon, Yiran Chen, and Jong Hwan Ko;
-<a href="https://ieeexplore.ieee.org/document/10360972">REFLEX: Rewrite-Free Row-Aligned Sparse Attention for Efficient LLM Execution on PIM</a>.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762124002649">REFLEX: Rewrite-Free Row-Aligned Sparse Attention for Efficient LLM Execution on PIM</a>.
 In <em>ACM/IEEE Design Automation Conference (DAC)</em>, 2026.
 </p>
 
@@ -91,7 +91,7 @@ In <em>IEEE International Symposium on Circuits and Systems (ISCAS)</em>, 2024.
 <span class="pub-index">[6]</span>
 <span class="venue-badge">ISLPED 2026</span>
 Yeong Hwan Oh, Do Yeong Kang, <strong>Juhong Park</strong>, Chanwook Hwang, Kang Eun Jeon, and Jong Hwan Ko;
-<a href="https://ieeexplore.ieee.org/document/10558607">HyperSPACE: Sparse-Adder-Compatible Encoding for Efficient Hyperdimensional Computing on Digital CIM Arrays</a>.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762124002649">HyperSPACE: Sparse-Adder-Compatible Encoding for Efficient Hyperdimensional Computing on Digital CIM Arrays</a>.
 In <em>IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)</em>, 2026.
 </p>
 
