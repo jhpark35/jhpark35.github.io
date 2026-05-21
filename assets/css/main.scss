@@ -107,14 +107,27 @@
   display: none !important;
 }
 
-.author__avatar,
-.author__avatar img {
+/* Profile image override */
+.author__avatar {
   width: 170px !important;
-  height: 170px !important;
+  height: 210px !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+}
+
+.author__avatar a {
+  width: 170px !important;
+  height: 210px !important;
+  display: block !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
 }
 
 .author__avatar img {
-  object-fit: cover;
-  object-position: 80% 25%;
-  border-radius: 12px !important;
+  width: 170px !important;
+  height: 210px !important;
+  max-width: none !important;
+  object-fit: cover !important;
+  object-position: 80% 20% !important;
+  border-radius: 14px !important;
 }
