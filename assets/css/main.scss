@@ -106,3 +106,8 @@
 .page__footer {
   display: none !important;
 }
+
+.author__avatar img {
+  object-fit: cover;
+  object-position: center center;
+}
