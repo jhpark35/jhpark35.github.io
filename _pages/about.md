@@ -32,6 +32,12 @@ My work has covered ReRAM-, SRAM-, and DRAM-based PIM systems, and has recently 
 - **2026.05:** 🎉 One paper was accepted to ISLPED 2026.
 - **2026.02:** 🎉 One paper was accepted to DAC 2026. -->
 
+<a id="education"></a>
+## 📖 Education
+
+- 2023.03 - Present, Ph.D. in Electrical and Computer Engineering, Sungkyunkwan University.
+- 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, Sungkyunkwan University.
+
 <a id="experience"></a>
 ## 💻 Experience
 
@@ -39,6 +45,17 @@ My work has covered ReRAM-, SRAM-, and DRAM-based PIM systems, and has recently 
 - 2022.09 - 2023.02 Research Assistant, IRIS Lab, Sungkyunkwan University.
 - 2019.12 - 2022.09 Engineer, Systems Team, Seoul Metro.
 - 2015.07 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Samsung Electronics.
+
+<a id="honors-and-awards"></a>
+## 🏆 Honors and Awards
+
+- 2025.09 2025 [President’s List](https://presidentlist.skku.edu/presidentlist/index.do), Sungkyunkwan University.
+- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
+- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
+- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
+- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
+- 2015.08 Dean’s List Award, Sungkyunkwan University.
+- 2014.02 Qualcomm Scholarship Recipient, Qualcomm (Korea).
 
 <a id="publications"></a>
 ## 📝 Publications
@@ -110,20 +127,3 @@ Chanwook Hwang, Jaehyeon So, Johnny Rhe, Jiyoon Kim, <strong>Juhong Park</strong
 <a href="https://ieeexplore.ieee.org/abstract/document/10595909">An Efficient Ventricular Arrhythmias Detection on Microcontrollers with Optimized 1D CNN</a>.
 In <em>IEEE Artificial Intelligence Circuits and Systems (AICAS)</em>, 2024.
 </p>
-
-<a id="honors-and-awards"></a>
-## 🏆 Honors and Awards
-
-- 2025.09 2025 [President’s List](https://presidentlist.skku.edu/presidentlist/index.do), Sungkyunkwan University.
-- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
-- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
-- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
-- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
-- 2015.08 Dean’s List Award, Sungkyunkwan University.
-- 2014.02 Qualcomm Scholarship Recipient, Qualcomm (Korea).
-
-<a id="education"></a>
-## 📖 Education
-
-- 2023.03 - Present, Ph.D. in Electrical and Computer Engineering, Sungkyunkwan University.
-- 2012.03 - 2015.08, B.S. in Electronic and Electrical Engineering, Sungkyunkwan University.
