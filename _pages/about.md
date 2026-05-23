@@ -26,11 +26,11 @@ My research focuses on hardware–software co-design for memory-centric AI syste
 
 My work has covered ReRAM-, SRAM-, and DRAM-based PIM systems, and has recently expanded toward HBM-PIM designs for efficient and reliable large language model (LLM) inference.
 
-<a id="news"></a>
+<!-- <a id="news"></a>
 ## 🔥 News
 
 - **2026.05:** 🎉 One paper was accepted to ISLPED 2026.
-- **2026.02:** 🎉 One paper was accepted to DAC 2026.
+- **2026.02:** 🎉 One paper was accepted to DAC 2026. -->
 
 <a id="experience"></a>
 ## 💻 Experience
