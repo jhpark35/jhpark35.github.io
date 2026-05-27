@@ -24,7 +24,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 My research focuses on hardware–software co-design for memory-centric AI systems, with an emphasis on processing-in-memory (PIM) architectures. I study performance and reliability challenges in PIM-based systems for emerging AI workloads and develop cross-layer solutions spanning computer architecture, runtime systems, and AI models.
 
-My work spans SRAM- and DRAM-based PIM systems and has recently expanded to HBM-PIM designs for efficient and reliable large language model (LLM) inference. Building on this trajectory, my long-term goal is to help lay the system foundations for the high-bandwidth flash (HBF) memory era, enabling scalable and reliable AI systems beyond conventional HBM-based architectures.
+My work has covered SRAM- and DRAM-based PIM systems and has recently expanded to HBM-PIM designs for efficient and reliable large language model (LLM) inference. In the long term, I aim to develop memory-centric computing systems across next-generation memory platforms, from LPDDR-PIM for edge AI to high-bandwidth flash (HBF) for large-scale AI inference.
 
 <!-- <a id="news"></a>
 ## 🔥 News
