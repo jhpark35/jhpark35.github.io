@@ -22,7 +22,7 @@ author_profile: true
 
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at Sungkyunkwan University, supervised by Prof. [Jong Hwan Ko](https://iris.skku.edu/). 
 
-My research focuses on hardware–software co-design for memory-centric AI systems, particularly processing-in-memory (PIM) architectures. I explore performance and reliability challenges in PIM-based systems for emerging AI workloads, and develop cross-layer solutions across architecture, runtime systems, and AI models.
+My research focuses on hardware–software co-design for memory-centric AI systems, with an emphasis on processing-in-memory (PIM) architectures. I study performance and reliability challenges in PIM-based systems for emerging AI workloads and develop cross-layer solutions spanning computer architecture, runtime systems, and AI models.
 
 My work spans SRAM- and DRAM-based PIM systems and has recently expanded to HBM-PIM designs for efficient and reliable large language model (LLM) inference. Building on this trajectory, my long-term goal is to help lay the system foundations for the high-bandwidth flash (HBF) memory era, enabling scalable and reliable AI systems beyond conventional HBM-based architectures.
 
