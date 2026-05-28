@@ -42,21 +42,21 @@ My work has covered SRAM-, DRAM-based PIM systems, and more recently HBM-PIM pla
 <a id="experience"></a>
 ## 💻 Experience
 
-- 2025.07 - 2026.07 Visiting Researcher, CEI Lab, Duke University (advisor: Prof. [Yiran Chen](https://cei.pratt.duke.edu/)).
-- 2022.09 - Present Research Assistant, IRIS Lab, Sungkyunkwan University.
-- 2019.12 - 2022.09 System Software Engineer, Systems Team, Electronics Division, Seoul Metro.
-- 2015.07 - 2018.12 DRAM Development Quality Assurance Engineer, Quality Assurance (QA) Group, Memory Business, Samsung Electronics.
+- 2025.07 - 2026.07, Visiting Researcher, CEI Lab, Duke University (advisor: Prof. [Yiran Chen](https://cei.pratt.duke.edu/)).
+- 2022.09 - Present, Research Assistant, IRIS Lab, Sungkyunkwan University.
+- 2019.12 - 2022.09, System Software Engineer, Systems Team, Electronics Division, Seoul Metro.
+- 2015.07 - 2018.12, DRAM Development Quality Assurance Engineer, Quality Assurance (QA) Group, Memory Business, Samsung Electronics.
 
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
 
-- 2025.09 2025 [President’s List](https://presidentlist.skku.edu/presidentlist/index.do), Sungkyunkwan University.
-- 2024.09  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
-- 2024.07 Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
-- 2023.07 Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
-- 2023-2025 Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
-- 2015.08 Dean’s List Award, Sungkyunkwan University.
-- 2014.02 Qualcomm Scholarship Recipient, Qualcomm (Korea).
+- 2025.09, 2025 President’s List, Sungkyunkwan University.
+- 2024.09,  Best Paper Award, The 31st Korean Conference on Semiconductors (KCS).
+- 2024.07, Grand Prize at the Exynos AI Challenger, Samsung Electronics’ S.LSI. (Team IRIS)
+- 2023.07, Best Paper Award (Top Award), Korean Artificial Intelligence Association (KAIA).
+- 2023-2025, Graduate Excellence Scholarship Recipient, Sungkyunkwan University.
+- 2015.08, Dean’s List Award, Sungkyunkwan University.
+- 2014.02, Qualcomm Scholarship Recipient, Qualcomm (Korea).
 
 <a id="publications"></a>
 ## 📝 Publications
