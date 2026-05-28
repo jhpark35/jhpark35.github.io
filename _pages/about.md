@@ -43,9 +43,9 @@ My work has covered SRAM-, DRAM-based PIM systems, and more recently HBM-PIM pla
 ## 💻 Experience
 
 - 2025.07 - 2026.07 Visiting Researcher, CEI Lab, Duke University (advisor: Prof. [Yiran Chen](https://cei.pratt.duke.edu/)).
-- 2022.09 - 2023.02 Research Assistant, IRIS Lab, Sungkyunkwan University.
+- 2022.09 - Present Research Assistant, IRIS Lab, Sungkyunkwan University.
 - 2019.12 - 2022.09 Engineer, Systems Team, Electronics Division, Seoul Metro.
-- 2015.07 - 2018.12 Engineer, DRAM Quality Assurance (QA) Group, Memory Business, Samsung Electronics.
+- 2015.07 - 2018.12 Engineer, Quality Assurance (QA) Group, Memory Business, Samsung Electronics.
 
 <a id="honors-and-awards"></a>
 ## 🏆 Honors and Awards
